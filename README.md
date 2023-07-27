@@ -5,17 +5,17 @@
 
 Buscador de CEP é uma aplicação full stack web, desenvolvida com intuito de aumentar meu conhecimento nas tecnologias utilizadas.
 
-A aplicação consiste em uma pesquisa simples de CEP, onde ao informar o CEP é retornado todas as informações do mesmo. 
+A aplicação consiste em uma pesquisa simples utilizando api viacep, onde ao informar o CEP é retornado todas as informações do mesmo. 
 
 ## Layout 
+![Web 1](https://github.com/Roger-Cdso/Buscador-de-CEP/blob/main/assets/web.png)
 
+![Web 2](https://github.com/Roger-Cdso/Buscador-de-CEP/blob/main/assets/web2.png)
 
 # Tecnologias utilizadas
-## Back end
+
 - Javascript
- 
-## Front end
-- HTML / CSS / JS 
+- HTML / CSS
 - ReactJS
 
 # Como executar o projeto
@@ -24,7 +24,7 @@ Pré-requisitos: npm
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/Roger-Cdso/Buscador-de-CEP
 
 # entrar na pasta do projeto 
 cd buscador de cep

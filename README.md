@@ -38,7 +38,7 @@ npm run dev
 
 # Autor
 
-Roger C. Cardodo
+Roger C. Cardoso
 
 https://www.linkedin.com/in/devroger-ccardoso/
 
